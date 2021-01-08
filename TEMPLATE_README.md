@@ -1,10 +1,10 @@
 # Title
 
-**Authors**: Student1, Student2
+**Authors**: Kimberly Dickson 
 
 ## Overview
 
-A one-paragraph overview of the project, including the business problem, data, methods, results and recommendations.
+This research has been developed to help Microsoft determine the profitability of entering the movie industry.  The model for predicting the "Profit" is based on movie releases that made the most revenue, the comparison of generations, and the budget.   
 
 ## Business Problem
 
@@ -13,8 +13,11 @@ Summary of the business problem you are trying to solve, and the data questions 
 ***
 Questions to consider:
 * What are the business's pain points related to this project?
+What kinds of challenges does this present for movie industry?
+And how do generational audience differences affect the profit of a movie? 
 * How did you pick the data analysis question(s) that you did?
 * Why are these questions important from a business perspective?
+When looking for generational trends in movies, it is not important what movies any one person liked to watch, what matters is what was popular (making money and/or winning awards) when people were stepping into the cinema. 
 ***
 
 ## Data
@@ -26,6 +29,7 @@ Questions to consider:
 * Where did the data come from, and how do they relate to the data analysis questions?
 * What do the data represent? Who is in the sample and what variables are included?
 * What is the target variable?
+What do the popular movies of over the years say about your generation?
 * What are the properties of the variables you intend to use?
 ***
 

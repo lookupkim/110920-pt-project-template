@@ -1,0 +1,466 @@
+[33mcommit 3ab204f04b54d2fbcafee9b02cc585affb9ac669[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: Kimberly.Dickson <Lookupkim@gmail.com>
+Date:   Wed Jan 6 11:30:37 2021 -0500
+
+    initial commit
+
+[33mcommit 6483824052cff420eb36ad2a332951b3bf161f9d[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Joél Collins <joelsewhere@gmail.com>
+Date:   Fri Dec 18 09:29:09 2020 -0600
+
+    Removing file
+
+[33mcommit 102636e01257a46937d4896fdb3201b53c4003d6[m
+Author: Joél Collins <joelsewhere@gmail.com>
+Date:   Fri Dec 18 09:26:47 2020 -0600
+
+    README edit
+
+[33mcommit b2030359171a976acc940981e9b4a6b824428b01[m
+Author: Joél Collins <joelsewhere@gmail.com>
+Date:   Thu Dec 17 16:04:02 2020 -0600
+
+    Adding SQL ERD
+
+[33mcommit 9e0cf23abc9a917bac7f25fe4d3c7226bc2dd337[m
+Author: Joél Collins <joelsewhere@gmail.com>
+Date:   Thu Dec 17 15:42:53 2020 -0600
+
+    Database creation code
+
+[33mcommit 316b7943c779aaa614e3c45296e6de2c30aae17d[m
+Author: Joél Collins <joelsewhere@gmail.com>
+Date:   Thu Dec 17 11:06:19 2020 -0600
+
+    README edits
+
+[33mcommit c5d2287fa6abafd1f98f439406c838e965c6a5ba[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Wed Aug 26 10:55:50 2020 -0400
+
+    Update TEMPLATE_README.md
+
+[33mcommit d23cefdc61b1ba095842bb680f29e2c9258799e5[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 26 10:54:42 2020 -0400
+
+    fix gitignore
+
+[33mcommit 52ed1ef6c3fd37e060c3f1e9bfe328ded0afc458[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 26 10:52:19 2020 -0400
+
+    Create .gitignore.txt
+
+[33mcommit f24cbc28dae8d72641dea09d6b2152411d997fb5[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Tue Aug 25 17:32:20 2020 -0400
+
+    Update TEMPLATE_README.md
+
+[33mcommit e60a5dbae1d95b9643515c45e9ef9867a4dfaca7[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Tue Aug 25 17:25:41 2020 -0400
+
+    Update README.md
+
+[33mcommit 82cc5778ce45927e68f0545ef210f9554a8dbc01[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Tue Aug 25 10:26:37 2020 -0400
+
+    Update README.md
+
+[33mcommit 4cc81f7d80e8c45ac8650043c7bc7e0792654b0f[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Tue Aug 25 10:25:44 2020 -0400
+
+    Update README.md
+
+[33mcommit ff463ecfe18d779282228a8386f6339c69a60437[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Tue Aug 25 10:13:15 2020 -0400
+
+    Update README.md
+
+[33mcommit 1b4868b27f0c02b0e658d70f9149b464b8b9173a[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Tue Aug 25 10:08:36 2020 -0400
+
+    Update README.md
+
+[33mcommit 39d9a7fb5e1d1c2e0e65a8f91785ee30f04c3b4e[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Tue Aug 25 10:04:22 2020 -0400
+
+    Add Phase 1 project data files
+
+[33mcommit 6b59d66580fa5875dbf6587f716dccb80bcc5c38[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Tue Aug 25 10:02:19 2020 -0400
+
+    Update README.md
+
+[33mcommit 7551a4b397ba62a0e7256a04be4c23ff9576177c[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Mon Aug 24 17:41:23 2020 -0400
+
+    Update README.md
+
+[33mcommit a3ab9d21c3883b79b47386ecf5c0865f26eb2f02[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Mon Aug 24 17:39:07 2020 -0400
+
+    Update README.md
+
+[33mcommit a8a402b3f182982b5abb88e1faeac799f6ef6ac8[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Mon Aug 24 17:37:30 2020 -0400
+
+    Update README.md
+
+[33mcommit 21659d0dc921c958ff0adf0f8d98177e2575f0ca[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Mon Aug 24 17:31:35 2020 -0400
+
+    Update README.md
+
+[33mcommit b54972169855c6e0a14f1db22d0a084ad2c6330c[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Mon Aug 24 17:25:44 2020 -0400
+
+    Delete viz2.png
+
+[33mcommit 45517258ef7f4132d781bbb2cfe999ab5a2fdf36[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Mon Aug 24 16:53:22 2020 -0400
+
+    Update README.md
+
+[33mcommit 50ebc7d6f1cc83b15ca99c321c965f12b9ea3c0b[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 15:53:54 2020 -0400
+
+    Update dsc-phase1-project-template.ipynb
+
+[33mcommit bd3de2e9740b56b7e54803919924a3aa994adba0[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 15:45:35 2020 -0400
+
+    Delete __init__.cpython-37.pyc
+
+[33mcommit ae454b0f5004eb7fb13315d420943c12a76b8030[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 15:44:08 2020 -0400
+
+    Rename files
+
+[33mcommit 844defc5e41cd30def9c9456266e0144d9294bf1[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 15:11:08 2020 -0400
+
+    Rename presentation, drop gitignore from mvp
+
+[33mcommit fc22aed40a16d078a62294f07e17a22436bd8b62[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 15:06:00 2020 -0400
+
+    Update TEMPLATE_README.md
+
+[33mcommit 0c726a9979a1d6fea31212d1cc3f7094e76d5c21[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 14:52:17 2020 -0400
+
+    Add data
+
+[33mcommit 7098fb33faa206b9316bdd29c9d45c8a8dca6801[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 14:50:18 2020 -0400
+
+    Delete DC_Gray _Logo.png
+
+[33mcommit 96fd7c0d2e13183f259cb169990a0f33ea761b90[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Wed Aug 19 14:48:24 2020 -0400
+
+    Align with AAB version
+
+[33mcommit 83e85544fee5fc909e0c2456fb7350be439469ee[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Thu Jun 11 17:05:31 2020 -0400
+
+    Update TEMPLATE_README.md
+
+[33mcommit c4f847b13a2452c6d6fb806b8614579e782e3770[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Thu Jun 11 14:34:13 2020 -0400
+
+    Update TEMPLATE_README.md
+
+[33mcommit 5863ad4daa573994e6554217383cde9949f0d818[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Thu Jun 11 14:26:01 2020 -0400
+
+    Update TEMPLATE_README.md
+
+[33mcommit d977a077f402c2b74153a737dce89c603e566e0e[m
+Merge: 643b58c 301b61b
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Thu Jun 11 14:21:05 2020 -0400
+
+    Merge pull request #5 from learn-co-curriculum/david-patch-2
+    
+    Update README.md
+
+[33mcommit 301b61b011c31b9f08e291cd8494b9d762e8be5e[m
+Author: David Braslow <david.braslow@gmail.com>
+Date:   Thu Jun 11 14:20:26 2020 -0400
+
+    Update README.md
+
+[33mcommit 643b58ceb3cbc1c767327d2157185c691f9572f6[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 09:55:25 2020 -0400
+
+    removing references in template readme
+
+[33mcommit 2d646f2b607dc2584a4813ae50ff2f0f6106aef0[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 01:38:06 2020 -0400
+
+    update readme to remove references to folders no longer there
+
+[33mcommit d77da52a652bffd38aaeaa758f0bcda4adc874d3[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 01:36:14 2020 -0400
+
+    update readme to remove references to folders no longer there
+
+[33mcommit 6646a48c3ff6ef2904103c1b7a007a6794596a06[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:52:03 2020 -0400
+
+    change readme title to include mvp
+
+[33mcommit 2faf2365fe0ee7a8f6cbcfd723a2b252b3dd8409[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:49:40 2020 -0400
+
+    removed code folder
+
+[33mcommit 7b2182d1d4baa343402577a1f9bbee8536d5c47b[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:48:10 2020 -0400
+
+    update ipynb to contain code that was is py files
+
+[33mcommit b2052b2550ebed1fd16c26b2bfb4bc57a6555901[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:44:29 2020 -0400
+
+    remove init file from mvp
+
+[33mcommit 3a56e9d58a59b73e3581cf104171baa4043b4847[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:34:25 2020 -0400
+
+    update template with new directory
+
+[33mcommit 85760a4a5b0b1b5575af24ff92795e4041705cd4[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:32:10 2020 -0400
+
+    update readme with new directory structure
+
+[33mcommit 800dcfeaf3110c5eec9996cf92bd8f0fdcef0420[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:27:19 2020 -0400
+
+    changed directory names
+
+[33mcommit 32de02ac386fb0deab15598a13e08d1815754a94[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu May 7 00:17:12 2020 -0400
+
+    remove data folder and contents
+
+[33mcommit dbe71ad6f037d6e489c3db1568e894454418ad68[m
+Author: David Braslow <david.braslow@flatironschool.com>
+Date:   Wed Apr 15 10:34:46 2020 -0400
+
+    Fix typos, remove "students" in README
+
+[33mcommit 11c21543cd12e20d280e64f6706dec13a347829e[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Tue Apr 14 12:02:25 2020 -0400
+
+    fix typo caught by Marisa <3
+
+[33mcommit 75156e318ced6451e1495c259b6b7fae3eec82ad[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Fri Apr 10 16:57:24 2020 -0400
+
+    update doc
+
+[33mcommit 13c2496c972b33a20c3c3b02fd239d6ade728079[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Fri Apr 10 15:39:43 2020 -0400
+
+    fix copy edit
+
+[33mcommit acb7213a2fc8f68f2b822cced6e887c1765aa54c[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Fri Apr 10 15:21:58 2020 -0400
+
+    finish edits
+
+[33mcommit b9cdb5427297a63df7340c7e60b1d78b4252c359[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Fri Apr 10 15:00:03 2020 -0400
+
+    update readmes
+
+[33mcommit 9cdb2cdf247197b9ea2bc09dc3bec78acea559fc[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Fri Apr 10 13:01:11 2020 -0400
+
+    update readme and slides
+
+[33mcommit ac87514022613e3b558c00bfb6ed85b60853e5ac[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Fri Apr 10 10:44:51 2020 -0400
+
+    update readme based on feedback
+
+[33mcommit 173ddcd983b9ef2b0170fffbba5afde5e8c0ddc5[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 18:45:29 2020 -0400
+
+    add empty presentation template as pdf
+
+[33mcommit ad9f1c927af8c12f2d30819b89f08482d47a1ff5[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 18:38:38 2020 -0400
+
+    update image again
+
+[33mcommit 0e949d426a29bd040f8cbe92afcde4a42ca7dbcd[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 18:37:37 2020 -0400
+
+    update image again
+
+[33mcommit 18069a7b182e217b53c2046a56938ce287f2fb17[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 18:33:06 2020 -0400
+
+    update pic
+
+[33mcommit 0e9ef64513809a387ed3850b4d281e5e38c73fb6[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 18:29:01 2020 -0400
+
+    add images
+
+[33mcommit 951486054939d94823e2ea9f811115325ef7ce0f[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 18:22:58 2020 -0400
+
+    update code to resize images
+
+[33mcommit 21383920bd8064494deb2b42a6ee60f1992fb65f[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 17:34:40 2020 -0400
+
+    update files to save vis when created and enhance readme
+
+[33mcommit d4da6f7e063654cd184bfdfa47b600559068654a[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 16:21:19 2020 -0400
+
+    tweak viz code to save file
+
+[33mcommit 38976e3486a70f1d864750055f46ce1d4424922a[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 16:17:34 2020 -0400
+
+    update readme
+
+[33mcommit 065ad0ebc4dd08a5a80ba4ff66cb66b611b548c6[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 16:00:57 2020 -0400
+
+    get rid of checkpoints
+
+[33mcommit aec5cf5fca2b804f105d2e739c7ea0639a8ba46b[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 15:59:48 2020 -0400
+
+    update gitignore
+
+[33mcommit 0f1a2cc558cdf5ba23df10f611fcc79c06d8f6d6[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 15:54:21 2020 -0400
+
+    enhance readme instructions
+
+[33mcommit 0fa15fecefb6c0a28551fab7ce50acf1bbd20d86[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 15:25:00 2020 -0400
+
+    update more readme instructions
+
+[33mcommit 93d44edd497dcb1a5b066ae528eca1485f27634e[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 15:16:35 2020 -0400
+
+    update more  markdown formatting
+
+[33mcommit 560b25169c3ab2dc1c477eda114a7768bdf338de[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 15:10:37 2020 -0400
+
+    test github markdown formatting
+
+[33mcommit 6a365ab4cb37a390120b3a0ee85bd29647eaeea5[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 15:09:23 2020 -0400
+
+    test github markdown formatting
+
+[33mcommit 0608a74b50dfece5c8bbc2fdab3b8ac683e1ec90[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 14:23:21 2020 -0400
+
+    update readmes
+
+[33mcommit 33a58e0e9de167f5c9e5ec384c58ac7b4c63733e[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 14:08:01 2020 -0400
+
+    added more content and guidance to code and notebook
+
+[33mcommit 34e1a2bf457ad445602764886a600b4f4312c1ff[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 12:07:09 2020 -0400
+
+    update notebook
+
+[33mcommit feadbf377662c20a1cf8c19b4fe4945df24e4df0[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 11:49:35 2020 -0400
+
+    renaming and adding gitignore
+
+[33mcommit 8543933a790d7a1eb2565162e0b7fef6d800d2d1[m
+Author: aapeebles <alison.peeblesmadigan@flatironschool.com>
+Date:   Thu Apr 9 11:34:41 2020 -0400
+
+    reorganized file directory
+
+[33mcommit 218b218abb5bf37924cba62ffbe3a5aab44eb43a[m
+Author: Alison <31246169+aapeebles@users.noreply.github.com>
+Date:   Wed Apr 8 18:09:23 2020 -0400
+
+    add legacy files
+    
+    these are what I've shared before with students when we had a hypothesis testing project. I will need to adjust this for this new proj.
