@@ -4,85 +4,89 @@
 
 ## Overview
 
-This research has been developed to help Microsoft determine the profitability of entering the movie industry.  The model for predicting the "Profit" is based on movie releases that made the most revenue, the comparison of generations, and the budget.   
+This research has been developed to help Microsoft determine the profitability of entering the movie industry. The goal is to perform an EDA (Exploratory Data Analysis) model comparing the audience by generation to identify the movie releases that made the most revenue. This will help Microsoft determine the type of movie to make based on a targeted audience. The analysis will consist of the top 10 movies budget, ratings, and genre. This analysis is to get a sense of how movie tastes differ by age. The data comes from IMDB movies and ratings csv files.
+
+The model for predicting the "Profit" is based on movie releases that made the most revenue, the comparison of generations, and the budget.   
 
 ## Business Problem
 
-Summary of the business problem you are trying to solve, and the data questions that you plan to answer in order to solve them.
-
 ***
-Questions to consider:
-* What are the business's pain points related to this project?
-What kinds of challenges does this present for movie industry?
-And how do generational audience differences affect the profit of a movie? 
-* How did you pick the data analysis question(s) that you did?
-* Why are these questions important from a business perspective?
-When looking for generational trends in movies, it is not important what movies any one person liked to watch, what matters is what was popular (making money and/or winning awards) when people were stepping into the cinema. 
+Microsoft will need to understand the type of film they wish to make for example identifying the product, genre, production cost, value etc. In other words, a film package that looks at the customers wants, needs and demands to identify a potential market for their film.
+
 ***
 
 ## Data
 
-Describe the data being used for this project.
-
 ***
-Questions to consider:
-* Where did the data come from, and how do they relate to the data analysis questions?
-* What do the data represent? Who is in the sample and what variables are included?
-* What is the target variable?
-What do the popular movies of over the years say about your generation?
-* What are the properties of the variables you intend to use?
+Step 1 
+Deciding which datasets to analyze
+
+Step 2 
+Cleaning the data
+
+Step 3 
+Finding the characteristics that support the analysis
+
+Step 4 
+Determine the next steps for Microsoft to decide to enter into the Movie industry
+
 ***
 
 ## Methods
 
-Describe the process for analyzing or modeling the data. For Phase 1, this will be descriptive analysis.
-
 ***
-Questions to consider:
-* How did you prepare, analyze or model the data?
-* Why is this approach appropriate given the data and the business problem?
+The data preparation process began with finding the right dataset.
+It included standardizing the data formats, altering the datasets, and removing outliers.
+After collecting the data, it was important to discover each dataset. I had to get to know the data and determine what had to be done before the data became useful.
+
+Cleaning up the data was the most time-consuming part of the analysis.  I had to remove unnecessary data and outliers and change any data type that was not consistent.
+I updated the format of the data by adding, grouping and pinpointing the key data needed for each set of observations. I created visualizations that provided interactive, and easily readable plots to help view the data.
+
+
 ***
 
 ## Results
 
-Present your key results. For Phase 1, this will be findings from your descriptive analysis.
+***
+My thoughts
+
+I conducted an analysis of the movies that have been created since 2010 and how the generations impacted the success of those movies focusing on the genre.  Though preparation, modelling, visualization and interpretation of the data, I took a dive in what drives movies goers based on which generation they were born.
+ 
+When I originally thought about conducting this analysis, I had a lot of assumptions.  For instance, I thought the female would out weight the male voter participation.  Each generation proved to be the opposite.   Across all generations the voting for both males and females have been on a decline.  I can’t help but think how interesting it would be to explore the effects streaming platforms are having on box office profits in the film industry.
+ 
+Therefore, I would suggest to Microsoft to focus of the millennials taste when it comes to thinking about the film package.  Specially the male voters, their voice had the loudest influence of all generations and gender.  Finally, the types of movies with the highest profit and with the lowest budget are comedy/drama.
 
 ***
-Questions to consider:
-* How do you interpret the results?
-* How confident are you that your results would generalize beyond the data you have?
-***
-
-Here is an example of how to embed images from your sub-folder:
 
 ### Visual 1
 ![graph1](./images/viz1.png)
 
 ## Conclusions
 
-Provide your conclusions about the work you've done, including any limitations or next steps.
-
 ***
-Questions to consider:
-* What would you recommend the business do as a result of this work?
-* What are some reasons why your analysis might not fully solve the business problem?
-* What else could you do in the future to improve this project?
+Key Takeaways
+
+Comedy/drama films on average are the most profitable
+The industry leaders preferred creating Action, Drama & Comedy films
+Millennials and males have had the most impact on highest-grossing films
+
+Thank you for taking the time to read through this movie exploration.
+
+
 ***
 
 ## For More Information
 
 Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
 
-For any additional questions, please contact **name & email, name & email**
+For any additional questions, please contact **Name:  Kimberly Dickson Email:  lookupkim@gmail.com**
 
 ## Repository Structure
 
-Describe the structure of your repository and its contents, for example:
-
 ```
-├── README.md                           <- The top-level README for reviewers of this project
-├── dsc-phase1-project-template.ipynb   <- Narrative documentation of analysis in Jupyter notebook
-├── DS_Project_Presentation.pdf         <- PDF version of project presentation
-├── data                                <- Both sourced externally and generated from code
-└── images                              <- Both sourced externally and generated from code
+├── README.md                           
+├── MMA.ipynb   
+├── Microsoft_Movie_Analysis.pdf         
+├── data                                
+└── images                              
 ```
