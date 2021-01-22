@@ -1,67 +1,93 @@
-# Phase 1 Project Template - Minimum Viable Product (MVP)
+# Title
 
-![blueprint](images/blueprint.png)
+**Authors**: Kimberly Dickson 
+![title](images/diverse_audience.jpg)
 
-This repository is like a blueprint, providing structure for your first End of Phase Project. We suggest you base your Phase 1 project off of this repository so you can focus less on formatting and organization, and more on the _analysis and communication skills_ that will support your progress through the course. This template is designed to make your project portfolio-ready in order to impress the future employers who will review it. 
+iStock logo
 
-## Repository Contents
+## Overview
 
-Below is a list of the contents of this repository - instructions for using them are in the next section.
+This research has been developed to help Microsoft determine the profitability of entering the movie industry. The goal is to perform an EDA (Exploratory Data Analysis) model comparing the audience by generation to identify the movie releases that made the most revenue. This will help Microsoft determine the type of movie to make based on a targeted audience. The analysis will consist of the top 10 movies budget, ratings, and genre. This analysis is to get a sense of how movie tastes differ by age. The data comes from IMDB movies and ratings csv files.
 
-- `README.md`: The README for this repo explaining its contents - you're reading it now.
-- `TEMPLATE_README.md`: An example of a project README that provides a brief overview of your whole project.
-- `dsc-phase1-project-template.ipynb`: A starter Jupyter Notebook with headings, code examples and guiding questions.
-- `create_sql_database.ipynb`: A notebook for creating an SQL database if you would prefer to use SQL for this project.
-- `DS_Project_Presentation_Template.pdf`: A starter slide deck presenting your project - here is an [editable version](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy).
-- `data` folder: A folder for the data you reference with your code.
-- `src` folder: A folder containing custom functions.
-- `images` folder: A folder for the images you reference in your files .
-- `.gitignore`: A hidden file that tells git to not track certain files and folders.
+The model for predicting the "Profit" is based on movie releases that made the most revenue, the comparison of generations, and the budget.   
 
-## Instructions For Using This Repository
+## Business Problem
 
-### Fork This Repository
+***
+![title](images/generations.png)
 
-1. Fork this repository to your personal account
-   - In GitHub, go to this repository and click the "Fork" button in the upper right.
-   
-2. Change the name of your fork of this repo to a _descriptive_ name of your choosing
-   - In GitHub, go to your fork of this repo -> "Settings" -> "Options" -> "Repository Name" -> "Rename"
-   - Make the name descriptive, since potential employers will read it. Ex: "Microsoft-Movie-Analysis" is better than "Project-1"
+Microsoft will need to understand the type of film they wish to make for example identifying the product, genre, production cost, value etc. In other words, a film package that looks at the customers wants, needs and demands to identify a potential market for their film.
 
-3. Use `git clone` to clone your fork of this repo to your local computer
+***
 
-### Work In Your Fork Of This Repository
+## Data
 
-- Work in the repo clone that you created on your local machine
-- Start writing and coding in the Jupyter Notebook `dsc-phase1-project-template.ipynb`
-- Fill in the README template in `TEMPLATE_README.md`
-- Use `git add`, `git commit`, and `git push` often to update your repo in GitHub
-   - For a refresher on how to do this and why it's important, review Topic 2: Bash and Git
+***
+Step 1 
+Deciding which datasets to analyze
 
-### Use The Slide Template
+Step 2 
+Cleaning the data
 
-1. Go to [this link](https://docs.google.com/presentation/d/1PaiH1bleXnhiPjTPsAXQSiAK0nkaRlseQIr_Yb-0mz0/copy) to make an editable copy of the slide deck in your own Google Drive account
-2. Go to "Slide," select "Change Theme," and pick a theme you like so your presentation doesn't look like everyone else's
+Step 3 
+Finding the characteristics that support the analysis
 
-### Tidy Up Your Project
+Step 4 
+Determine the next steps for Microsoft to decide to enter into the Movie industry
 
-- Change the file name of the Jupyter Notebook (`dsc-phase1-project-template.ipynb`) to something more descriptive
-- Save an appropriately-named PDF version of your slide deck to the repository
-- Rename the template readme you've been working in by running `git mv TEMPLATE_README.md README.md`
-- Delete unnecessary files from the repo using `git rm`
-   - The presentation PDF: `DS_Project_Presentation_Template.pdf`
-   - This README file: `README.md`
-   - Any unused data files in the `data` folder
-   - Any unused images in the `images` folder
+***
 
-### Submit Your Project
+## Methods
 
-To submit your project, please follow the instructions in the [Project Submission & Review](https://learning.flatironschool.com/courses/1384/pages/project-submission-and-review-online?module_item_id=91641) page on Canvas.
+***
+The data preparation process began with finding the right dataset.
+It included standardizing the data formats, altering the datasets, and removing outliers.
+After collecting the data, it was important to discover each dataset. I had to get to know the data and determine what had to be done before the data became useful.
+
+Cleaning up the data was the most time-consuming part of the analysis.  I had to remove unnecessary data and outliers and change any data type that was not consistent.
+I updated the format of the data by adding, grouping and pinpointing the key data needed for each set of observations. I created visualizations that provided interactive, and easily readable plots to help view the data.
 
 
-### Notes
+***
 
-- The visualizations in the notebook use best practices for visualization that you should try to emulate. For example, they have clear axes, descriptive titles, and appropriate number formatting.
-- The `dsc-phase1-project-template.ipynb` is intended to be the _final version_ of your project. The first notebook you create will not look like this. You are encouraged to start with a very disorderly notebook and clean it as you go.
-- If you would like to use SQL for this project, please open the `create_sql_database.ipynb` notebook, and run the cells. The schema for the database is stored in the images/ folder.
+## Results
+
+***
+My thoughts
+
+I conducted an analysis of the movies that have been created since 2010 and how the generations impacted the success of those movies focusing on the genre.  Though preparation, modelling, visualization and interpretation of the data, I took a dive in what drives movies goers based on which generation they were born.
+ 
+When I originally thought about conducting this analysis, I had a lot of assumptions.  For instance, I thought the female would out weight the male voter participation.  Each generation proved to be the opposite.   Across all generations the voting for both males and females have been on a decline.  I can’t help but think how interesting it would be to explore the effects streaming platforms are having on box office profits in the film industry.
+ 
+Therefore, I would suggest to Microsoft to focus of the millennials taste when it comes to thinking about the film package.  Specially the male voters, their voice had the loudest influence of all generations and gender.  Finally, the types of movies with the highest profit and with the lowest budget are comedy/drama.
+
+***
+
+
+## Conclusions
+
+***
+Key Takeaways
+
+Comedy/drama films on average are the most profitable
+The industry leaders preferred creating Action, Drama & Comedy films
+Millennials and males have had the most impact on highest-grossing films
+
+Thank you for taking the time to read through this movie exploration.
+
+
+***
+
+## For More Information
+
+For any additional questions, please contact **Name:  Kimberly Dickson Email:  lookupkim@gmail.com**
+
+## Repository Structure
+
+```
+├── README.md                           
+├── MMA.ipynb   
+├── Microsoft_Movie_Analysis.pdf         
+├── data                                
+└── images                              
+```
